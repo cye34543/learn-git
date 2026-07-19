@@ -1,0 +1,4 @@
+# 只跟踪扫雷游戏文件
+*
+!/minesweeper.html
+!.gitignore
