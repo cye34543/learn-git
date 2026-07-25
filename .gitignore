@@ -1,9 +1,8 @@
 # 跟踪学习笔记和AI Agent项目
 *
-!/workspace/myproject/ai-agents-notes/**
-!/my-ai-agent/**
+!/ai-agents-notes/
+!/my-ai-agent/
 !.gitignore
-# 排除模型文件和依赖
 my-ai-agent/models/
 my-ai-agent/node_modules/
 my-ai-agent/guoan-text.txt
