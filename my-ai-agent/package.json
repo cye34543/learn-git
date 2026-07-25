@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "my-ai-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-llama-cpp": "^3.19.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
